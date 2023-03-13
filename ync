@@ -1,0 +1,253 @@
+[33mcommit e36e14c38ec4d08013d5d5db3b4faa7c0573c4c3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Thu Jan 6 16:02:39 2022 +0700
+
+    fix typo
+
+[33mcommit a7e4817cbf31e65ace66ad511e3f7bbed12e4602[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Thu Jan 6 15:16:05 2022 +0700
+
+    minor ui fix
+
+[33mcommit 5b335f11c803f373d1c4695a1244d81ea4039d42[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Thu Jan 6 15:03:00 2022 +0700
+
+    modified pagination count
+
+[33mcommit 953e06d8fc3c64f3dbff3d437076be010513264a[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Thu Jan 6 14:58:28 2022 +0700
+
+    fix hyperlink
+
+[33mcommit 4c3f5587c65eb2ac352a9761ae903f454151fb7b[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Thu Jan 6 14:42:33 2022 +0700
+
+    Updated UI and migration
+
+[33mcommit 437e74190bf673f8c8eca54b1fbe4af333d9ddb4[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Wed Jan 5 12:24:19 2022 +0700
+
+    add pagination for certification
+
+[33mcommit f3f0429564b5d20e777cf8fdbb55d8c74d59912c[m
+Author: Clarik <clarik72@gmail.com>
+Date:   Wed Jan 5 03:13:12 2022 +0700
+
+    Error Alert Thread & Reply
+
+[33mcommit 074032c5f1e912ad737fdaa1f114940b5563d43b[m
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Wed Jan 5 00:29:54 2022 +0700
+
+    create forum
+
+[33mcommit 9ab5c0806b55acc8cc7b57b892f1fa650b3ea3f4[m
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Wed Jan 5 00:05:55 2022 +0700
+
+    forum done
+
+[33mcommit caf5965d174518ee19a835dccbd9da02f3c71811[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Tue Jan 4 19:04:10 2022 +0700
+
+    fix migration
+
+[33mcommit 2605d598f64eb5abeba716042f0535d755a845f9[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Tue Jan 4 18:59:13 2022 +0700
+
+    Profile and Certification Done
+
+[33mcommit 662d80cdfa5041b4bb84f503a8c6922efa2400c9[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Tue Jan 4 17:02:36 2022 +0700
+
+    Hiring system done
+
+[33mcommit 09fe8bd6192c2519b41476a9523e87f96c95e492[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Tue Jan 4 08:11:05 2022 +0700
+
+    View Job Vacancies
+
+[33mcommit b68dffa6961ee5399eb1fbb78b9dbfe490eefe59[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Tue Jan 4 07:55:40 2022 +0700
+
+    enhanced search feature
+
+[33mcommit fe08e5414bfa8032a450ee8989968da62f096025[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Tue Jan 4 07:51:42 2022 +0700
+
+    Profile WIP
+
+[33mcommit 4cd2f9a7365cd3506719c8a940ecb3841a31c7a3[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Tue Jan 4 07:29:22 2022 +0700
+
+    Updated Models
+
+[33mcommit bbea313ccd20f1e2c0cc37c0f23a1354cb40d706[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Tue Jan 4 06:15:23 2022 +0700
+
+    Added JobSeeder
+
+[33mcommit 4895d0a92dea01a9128c459def533d7f67a329c3[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Tue Jan 4 06:04:31 2022 +0700
+
+    JobVacancy CRUD done + Add Middleware
+
+[33mcommit 0334e0d59f5467a5f75f2877fa8f2e32d5677c86[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Mon Jan 3 09:53:17 2022 +0700
+
+    removed .env from gitignore
+
+[33mcommit 45224084485fbc28bd475d7e116b1ece4dc10275[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Mon Jan 3 08:47:50 2022 +0700
+
+    added new migrations
+
+[33mcommit fda12c64ae4e8b32a703758be3723d2ba7ac63e7[m
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Mon Dec 20 22:53:05 2021 +0700
+
+    eloquent - migrations + model, forum+search rework
+
+[33mcommit 48d96843031bfe9582f74a336e0740a204ad8916[m
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Sun Dec 19 03:42:58 2021 +0700
+
+    alert(successful regis), search(controller, view)
+
+[33mcommit db43d4ed44a8299df978b70a0cf9c2b99f6d4427[m
+Author: Clarik <clarik72@gmail.com>
+Date:   Fri Dec 17 17:56:39 2021 +0700
+
+    Fixing view Applicant & MSME
+
+[33mcommit a1946cdb42759a2f30f39301d512c8f696dec1d2[m
+Author: Clarik <clarik72@gmail.com>
+Date:   Fri Dec 17 15:13:03 2021 +0700
+
+    Edit Model Save in Register Controller
+
+[33mcommit 61e8e897d7e46e505f8e5060aca2344a1bf5429c[m
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Fri Dec 17 02:46:41 2021 +0700
+
+    final buat hari ini (controller + view)
+
+[33mcommit 81c35642491cbf97b1ea13ca714688f77e62b762[m
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Fri Dec 17 02:15:03 2021 +0700
+
+    home rework
+
+[33mcommit 200fb93142cb1ba096c9c2aad71e43446d0b0adf[m
+Author: Clarik <clarik72@gmail.com>
+Date:   Fri Dec 17 00:27:44 2021 +0700
+
+    Login Done, Error in Login Done
+
+[33mcommit 3cbff0aa67d760fe3a425ec7e4ac7958816b59dc[m
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Fri Dec 17 00:24:18 2021 +0700
+
+    register validation
+
+[33mcommit 3adfa53f53655074674dac31331ee170e14a909b[m
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Thu Dec 16 23:22:53 2021 +0700
+
+    pisah controller
+
+[33mcommit a59808cffc9540dabeaadbe9819a5acae9180600[m
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Thu Dec 16 00:54:51 2021 +0700
+
+    navbar rework
+
+[33mcommit 92175ed6a191dad8703c3cf51d3df379dbe38350[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Wed Dec 15 06:29:19 2021 +0700
+
+    register sudah bisa masuk ke db
+
+[33mcommit a9f64fdff6a333655b9682c7ff0bace19e1cc30d[m
+Merge: 26b2474 aae80e5
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Wed Dec 15 00:08:56 2021 +0700
+
+    Merge branch 'main' of https://github.com/Clarik/ProjectOOAD
+
+[33mcommit 26b2474ebba6209cb34593e57ec6912c222b272b[m
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Wed Dec 15 00:08:45 2021 +0700
+
+    sign up (controller)
+
+[33mcommit aae80e57eda4d11d7c5e31a32a368427d0e7269a[m
+Author: Clarik <clarik72@gmail.com>
+Date:   Wed Dec 15 00:04:43 2021 +0700
+
+    EditView Login, Regis
+
+[33mcommit c4b7d0afae347e4378e7efe9a0dfb46f21bc6fb2[m
+Author: Clarik <clarik72@gmail.com>
+Date:   Tue Dec 14 23:24:25 2021 +0700
+
+    User Controller Updated 1
+
+[33mcommit 72f29b32604a04104c6ca1b13cf4f142f4893424[m
+Author: Clarik <clarik72@gmail.com>
+Date:   Tue Dec 14 23:14:04 2021 +0700
+
+    UserController Login (Still failed)
+
+[33mcommit 6ee96c6807a31ee80a95773bf1e8e69164333f6e[m
+Merge: 11e04ed 5e1fa02
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Tue Dec 14 23:10:28 2021 +0700
+
+    Merge branch 'main' of https://github.com/Clarik/ProjectOOAD
+
+[33mcommit 11e04ed34f2b87af71acdd3536e02a71e2d8a113[m
+Author: Kendrick <kendrick0120@gmail.com>
+Date:   Tue Dec 14 23:10:19 2021 +0700
+
+    Applicant & MSME Regis page
+
+[33mcommit 5e1fa024018ad386f33f7dcbe8950eb6d5648c91[m
+Author: Clarik <clarik72@gmail.com>
+Date:   Tue Dec 14 22:53:36 2021 +0700
+
+    Create Model User
+
+[33mcommit b17675376e652f51b9d4eedd8f0724bcca8e8a72[m
+Author: Clarik <clarik72@gmail.com>
+Date:   Tue Dec 14 22:43:28 2021 +0700
+
+    Making migration for table
+
+[33mcommit 35cbeafaf68b63e648a0d1556ae9f02405de5110[m
+Author: darrylxavier <xavierdarryl15@gmail.com>
+Date:   Tue Dec 14 22:39:37 2021 +0700
+
+    Login/Regis Page
+
+[33mcommit 6cb11f61e14230b009428ff481aa49ba1273974a[m
+Author: Clarik <clarik72@gmail.com>
+Date:   Tue Dec 14 21:17:24 2021 +0700
+
+    first commit
